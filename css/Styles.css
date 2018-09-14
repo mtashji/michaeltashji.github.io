@@ -1,0 +1,28 @@
+/* comment */
+
+h1 { color:aquamarine;
+font-size: 64px;
+text-align: "center";
+font-weight: "bold";
+font-family: arial, sans-serif;
+}
+
+h2 { color:steelblue;
+text-align: "center";
+font-size: 32px;
+font-family: arial, sans-serif;
+}
+
+b { color:cadetblue;
+  font-size: 20px;
+  font-family: georgia, serif;
+}
+
+p { color:cadetblue;
+  font-size: 16px;
+  font-family: georgia, serif;
+}
+
+img { max-width: 600px;
+max-height: auto;
+}
