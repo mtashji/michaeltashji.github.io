@@ -1,24 +1,26 @@
 /* comment */
 
-h1 { color:aquamarine;
+h1 { color:rebeccapurple;
 font-size: 64px;
 text-align: "center";
 font-weight: "bold";
-font-family: arial, sans-serif;
+font-family: georgia, serif;
 }
 
-h2 { color:steelblue;
+h2 { color:rebeccapurple;
 text-align: "center";
 font-size: 32px;
-font-family: arial, sans-serif;
+font-family: georgia, serif;
 }
 
-b { color:cadetblue;
+b { color:dimgray;
+  text-align: "center";
   font-size: 20px;
   font-family: georgia, serif;
 }
 
-p { color:cadetblue;
+p { color:rebeccapurple;
+  text-align: "center";
   font-size: 16px;
   font-family: georgia, serif;
 }
